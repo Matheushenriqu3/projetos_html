@@ -1,0 +1,149 @@
+body{
+    background-color: rgb(226, 221, 221);
+    background-image: url(img2/final.jpeg);
+    color: blue;
+
+}
+
+
+#topo{
+    margin-bottom: 20px; 
+    width: 100%;
+    height: 50px;
+}
+
+#titulo{
+
+    margin-left: 40%;
+    float: left;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+
+}
+
+#perfil{
+    width: 60px;
+    height: 60px;
+    float:right;
+}
+#menu{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    border: 2px solid black;
+    border-radius: 15px;
+    width: 100%;
+    height: 40px;
+    margin-bottom: 30px 50px;
+    border: 2px solid blue;
+    
+}
+
+
+#about{
+    margin-left: 5px;
+    float:right
+    
+}
+
+#about2{
+    margin: 5px 5px 2px 5px;
+    float:left
+    
+}
+
+
+#about{
+    margin: 5px 10px 2px 20px;
+    color: rgb(53, 71, 231);
+    transition: background 0.3, color 0.3;
+}
+
+#about:hover{
+    background: rgb(0, 0, 0);
+    color: rgb(54, 91, 190);
+}
+
+#about2{
+    margin: 5px 10px 2px 20px;
+    color: rgb(53, 71, 231);
+    transition: background 0.3, color 0.3;
+}
+#about2:hover{
+    background: rgb(0, 1, 2);
+    color: rgb(54, 91, 190);
+}
+
+#about3{
+    float: left;
+    margin: 5px 10px 2px 40%;
+    color: rgb(53, 71, 231);
+    transition: background 0.3, color 0.3;
+}
+#about3:hover{
+    background: rgb(0, 0, 0);
+    color: rgb(54, 91, 190);
+}
+
+#conteudo{
+    height: 100px;
+    width: auto;
+}
+#conteudo1{
+    float: left;
+    border: 2px solid black;
+    margin-top: 30px;
+    margin-left: 25%;
+    padding-left: 10px;
+    margin-right: 50px;
+    width: 200px;
+    height: 500px;
+    border: 2px solid blue;
+}
+
+#conteudo2{
+    float: left;
+    border: 2px solid black;
+    margin-top: 30px;
+    margin-left: 15px;
+    padding-left: 10px;
+    margin-right: 50px;
+    width: 200px;
+    height: 500px;
+    border: 2px solid blue;
+    
+}
+
+#conteudo3{
+    float: left;
+    border: 2px solid black;
+    margin-top: 30px;
+    margin-left: 15px;
+    padding-left: 10px;
+    margin-right: 200px;
+    width: 200px;
+    height: 500px;
+    border: 2px solid blue;
+}
+
+#conteudo4{
+    border: 2px solid black;
+    margin-top: 10px;
+    margin-left: 480px;
+    padding-left: 10px;
+    padding-right: 20px;
+    width: 800px;
+    height: 600px;
+    border: 2px solid blue;
+}
+
+#conteudo5{
+    border: 2px solid black;
+    margin-top: 10px;
+    margin-left: 480px;
+    padding-left: 10px;
+    padding-right: 20px;
+    width: 800px;
+    height: 600px;
+    border: 2px solid blue;
+}
+
