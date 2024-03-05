@@ -1,0 +1,71 @@
+body{
+    background-color: rgb(226, 221, 221);
+    background-image: url(img/wpp.jpeg);
+}
+/* filter: blur(2px);
+-webkit-filter: blur(2px; */
+
+#topo{
+    margin-bottom: 20px; 
+    width: 100%;
+    height: 50px;
+}
+
+#titulo{
+
+    margin-left: 35%;
+    float: left;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+
+}
+
+#perfil{
+    width: 50px;
+    height: 50px;
+    float: right;
+}
+
+/* ELEMENTOS DO MENU */
+#menu{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 22px;
+    border: 2px solid black;
+    border-radius: 15px;
+    width: 100%;
+    height: 40px;
+    margin-bottom: 20px;
+}
+
+#posts{
+    margin: 5px 5px 2px 5px;
+    float: left;
+}
+#about{
+    margin: 5px 5px 2px 5px;
+    float: right;
+}
+
+/* ELEMENTOS DA POSTAGEM */
+#lista-postagem{
+    border: 2px solid black;
+    border-radius: 20px;
+    width: 200px;
+    float: left;
+}
+.textpost{
+    margin: 5px 10px 2px 20px;
+    color: rgb(3, 1, 1);
+    transition: background 0.3, color 0.3;
+}
+.textpost:hover{
+    background: rgb(235, 226, 226);
+    color: rgb(0, 0, 238);
+}
+#conteudo{
+   
+    border: 2px solid black;
+    margin-top: 10px;
+    margin-left: 250px;
+    padding-left: 10px;
+}
