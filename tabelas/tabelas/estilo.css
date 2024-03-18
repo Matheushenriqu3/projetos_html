@@ -1,0 +1,90 @@
+table{
+    border-collapse: collapse;
+    
+}
+
+td,th{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    width: 100%;
+    height: 40px;
+    padding: 2px 10px 2px 10px;
+    
+}
+
+body{
+    background-image: url(img3/room\,jpeg.jpg);
+}
+
+#sobre{
+    border: 3px solid purple;
+    width: 100%;
+    height: 20px;
+    border-radius: 15px;
+    text-align: center;
+    color: purple;
+}
+
+#topo{
+    color: purple;
+    
+}
+
+tr.linha1 {
+    border: rgb(129, 36, 235) 2px solid;
+    color: rgb(0, 245, 0);
+}
+
+
+tr.linha2 {
+ border: rgb(0, 0, 0) 5px solid;
+ color: rgb(245, 208, 0);
+   
+}
+
+tr.linha3 {
+ border: rgb(77, 0, 221) 2px solid;
+ color: rgb(77, 0, 221)
+       
+}
+
+
+tr.linha4 {
+ border: rgb(255, 255, 255) 2px solid;
+ color: rgb(18, 221, 0)
+           
+}
+
+tr.linha5 {
+ border: rgb(255, 1, 1) 2px solid;
+ color: rgb(240, 14, 14)
+               
+}
+
+ tr.linha6 {
+border: rgb(255, 255, 255) 2px solid;
+color:  rgb(255, 255, 255)
+                   
+}
+
+tr.linha7 {
+ border: rgb(6, 10, 241) 2px solid;
+color: rgb(248, 192, 10);
+                       
+}
+tr.linha8 {
+border: rgb(0, 0, 0) 5px solid;
+color: rgb(248, 192, 10);
+                           
+}
+tr.linha9 {
+ border: rgb(240, 240, 240) 2px solid;
+color: rgb(248, 10, 10);
+                               
+}
+
+tr.linha10 {
+ border: rgb(0, 0, 0) 5px solid;
+ color: rgb(248, 192, 10);
+                                   
+ }
